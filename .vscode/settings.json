@@ -1,10 +1,18 @@
 {
     "cSpell.words": [
+        "CeltoFahren",
         "cumul",
+        "midx",
+        "midy",
         "newlist",
         "xlabel",
         "xlist",
         "yarray",
         "ylist"
+    ],
+    "cSpell.ignoreWords": [
+        "newhumidity",
+        "newpressure",
+        "newtemp"
     ]
 }
